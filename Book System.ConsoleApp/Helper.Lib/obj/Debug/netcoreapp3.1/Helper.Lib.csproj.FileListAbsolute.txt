@@ -1,0 +1,9 @@
+C:\Users\HP\source\repos\Book System.ConsoleApp\Helper.Lib\bin\Debug\netcoreapp3.1\Helper.Lib.deps.json
+C:\Users\HP\source\repos\Book System.ConsoleApp\Helper.Lib\bin\Debug\netcoreapp3.1\Helper.Lib.dll
+C:\Users\HP\source\repos\Book System.ConsoleApp\Helper.Lib\bin\Debug\netcoreapp3.1\Helper.Lib.pdb
+C:\Users\HP\source\repos\Book System.ConsoleApp\Helper.Lib\obj\Debug\netcoreapp3.1\Helper.Lib.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Book System.ConsoleApp\Helper.Lib\obj\Debug\netcoreapp3.1\Helper.Lib.AssemblyInfo.cs
+C:\Users\HP\source\repos\Book System.ConsoleApp\Helper.Lib\obj\Debug\netcoreapp3.1\Helper.Lib.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Book System.ConsoleApp\Helper.Lib\obj\Debug\netcoreapp3.1\Helper.Lib.dll
+C:\Users\HP\source\repos\Book System.ConsoleApp\Helper.Lib\obj\Debug\netcoreapp3.1\Helper.Lib.pdb
+C:\Users\HP\source\repos\Book System.ConsoleApp\Helper.Lib\obj\Debug\netcoreapp3.1\Helper.Lib.csproj.AssemblyReference.cache
